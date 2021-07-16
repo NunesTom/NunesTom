@@ -33,7 +33,7 @@
 
 --------------
 
-Experience of over 15 years in IT, going through several highly complex projects, I have focused on developing innovations for the main clients of the consultancies I worked on, such as: Development of responsive and hybrid applications for mobile devices (SAPui5, SAP Cloud Platform, Apps like Fiore), Development of dashboards, semantic layer and reports for business intelligence (SAP BO), coordination of technical team with application of agile methodologies, development of iot solution (internet of things) for implantation in the industry and in other segments of Business.
+Experience of over 15 years in IT, going through several highly complex projects, I have focused on developing innovations for the main clients of the consultancies I worked on, such as: Development of responsive and hybrid applications for mobile devices (SAPui5, SAP Cloud Platform, Apps like Fiore, SAP HANA XSA, Node.js), Development of dashboards, semantic layer and reports for business intelligence (SAP BO), coordination of technical team with application of agile methodologies, development of iot solution (internet of things) for implantation in the industry and in other segments of Business.
 
 --------------
 
